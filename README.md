@@ -2,7 +2,7 @@
 
 An extension for pfUI which adds dragon textures to the player frame.
 
-![screenshot](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/pfUI-eliteoverlay/screenshot.png)
+![screenshot](https://github.com/user-attachments/assets/f12e8c77-9c5b-476d-a1d4-75a165ef0fc0)
 
 ## Installation (Vanilla, 1.12)
 1. Download **[Latest Version](https://github.com/mrrosh/pfUI-ElitePlayerFrame/archive/master.zip)**
